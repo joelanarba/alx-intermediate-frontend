@@ -1,0 +1,6 @@
+# Installed SASS on Windows
+
+# I already had Node.js and npm installed
+
+# Installed SASS version 3.7.4 using:
+npm install sass -v 3.7.4
